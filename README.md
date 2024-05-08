@@ -1,10 +1,9 @@
 ### 👋 Hi there
 
-- 🌱 I’m currently interested in Video Understanding especially in **Untrimmed Video Understanding**, **Self-Supervised Representation Learning**
-- 🔭 I’m currently working on [Sejong RCV Lab](https://www.rcv.sejong.ac.kr/)
+- My research interests mainly lie in Video Understanding.
+  - especially in **Untrimmed Video Understanding**, **Vision-Language Pre-training** and **Open-Vocabulary Learning**
 
 ### 📃 Publications
-
 - W Jo, **G Lim**, G Lee, H Kim, B Ko Y Choi, **VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression**. February 2024, AAAI. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28046)][[code](https://github.com/sejong-rcv/VVS)]
 - W Jo, **G Lim**, Y Hwang, G Lee, J Kim, J Yun, J Jung, Y Choi, **Simultaneous Video Retrieval and Alignment**. March 2023, IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10077393)]
 - J Kim, W Jo, **G Lim**, J Yun, S Kwak, S Jung, W Cheong, H Choo, J Seo, and Y Choi, **Compression Method for MPEG CDVA Global Feature Descriptors CDVA**, Journal of Broadcast Engineering. May 2022. [[paper](https://koreascience.kr/article/JAKO202218262157225.page)]
