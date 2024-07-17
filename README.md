@@ -19,4 +19,4 @@
 - OpenCV
 - Pytorch/Sklearn
 
-🔍[Google Scholar](https://scholar.google.co.kr/citations?user=o-W04rAAAAAJ&hl=ko) / 📅[Blog](https://taek-guen.tistory.com/) / 📝[Homepage](https://sites.google.com/view/taekguen/)
+🔍[Google Scholar](https://scholar.google.co.kr/citations?user=o-W04rAAAAAJ&hl=ko) / 📅[Blog](https://taek-guen.tistory.com/) / 📝[Homepage](https://limgeuntaekk.github.io/)
