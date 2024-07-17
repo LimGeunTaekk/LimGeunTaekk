@@ -1,9 +1,14 @@
 ### 👋 Hi there
 
-- My research interests mainly lie in Video Understanding.
-  - especially in **Untrimmed Video Understanding**, **Vision-Language Pre-training** and **Open-Vocabulary Learning**
+- My research focuses on Computer Vision, specifically Video Understanding. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
+  - Human Action Understanding: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
+  - Scene Graph Representation: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
+  - Open-Vocabulary Learning: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
+
 
 ### 📃 Publications
+- **G Lim**, H Kim, J Kim Y Choi, **Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**. July 2024, ACM MM. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28046)][[code](https://github.com/sejong-rcv/VVS)]
+
 - W Jo, **G Lim**, G Lee, H Kim, B Ko Y Choi, **VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression**. February 2024, AAAI. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28046)][[code](https://github.com/sejong-rcv/VVS)]
 - W Jo, **G Lim**, Y Hwang, G Lee, J Kim, J Yun, J Jung, Y Choi, **Simultaneous Video Retrieval and Alignment**. March 2023, IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10077393)]
 - J Kim, W Jo, **G Lim**, J Yun, S Kwak, S Jung, W Cheong, H Choo, J Seo, and Y Choi, **Compression Method for MPEG CDVA Global Feature Descriptors CDVA**, Journal of Broadcast Engineering. May 2022. [[paper](https://koreascience.kr/article/JAKO202218262157225.page)]
