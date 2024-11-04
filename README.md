@@ -7,7 +7,7 @@
 
 
 ### 📃 Publications
-- **G Lim**, H Kim, J Kim Y Choi, **Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**. July 2024, ACM MM. [[paper](https://arxiv.org/abs/2408.05955)][[code](https://github.com/sejong-rcv/PVLR)]
+- **G Lim**, H Kim, J Kim Y Choi, **Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**. July 2024, ACM MM. [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681537)][[code](https://github.com/sejong-rcv/PVLR)]
 
 - W Jo, **G Lim**, G Lee, H Kim, B Ko Y Choi, **VVS: Video-to-Video Retrieval with Irrelevant Frame Suppression**. February 2024, AAAI. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28046)][[code](https://github.com/sejong-rcv/VVS)]
 - W Jo, **G Lim**, Y Hwang, G Lee, J Kim, J Yun, J Jung, Y Choi, **Simultaneous Video Retrieval and Alignment**. March 2023, IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/10077393)]
