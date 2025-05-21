@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- My research focuses on Computer Vision, specifically **Video Understanding**. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
+- My research focuses on Computer Vision, specifically **Long Form Video Understanding**. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
   - **Human Action Understanding**: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
   - **Scene Graph Representation**: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
   - **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
