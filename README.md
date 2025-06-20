@@ -1,10 +1,9 @@
 ### 👋 Hi there
 
-- My research focuses on multimodal AI, with a particular emphasis on video-centric AI modeling. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
-  - **Human Action Understanding**: I view distinguishing dynamic human behaviors as a foundational task that necessitates temporal modeling.
-  - **Scene Graph Representation**: I believe it offers essential frameworks for organizing and interpreting the intricate visual data present in videos.
-  - **Open-Vocabulary Learning**: I consider it crucial for enabling robust inference in various unseen scenarios, which is vital for practical applications.
-
+- My research focuses on multimodal AI, with a particular emphasis on video-centric AI modeling. My research focuses on empowering AI systems to aid humans in interpreting complex video content, thereby facilitating higher-level reasoning across various applications such as sports analytics, surveillance and media-content. I am deeply interested in exploring the following three key areas for a comprehensive understanding of videos:
+  - **Efficient Video Representation**: The high computational demands of video data necessitate the use of efficient techniques like keyframe selection and tokenization.
+  - **Perception and Reasoning in Videos**: Understanding temporal information in video, such as frame continuity, causality, and diversity, remains a challenging problem.
+  - **Multi-modal Learning**: Audio, when encoded in video streams, introduces semantic information that complements but is distinct from visual semantics.
 
 ### 📃 Publications
 - **G Lim**, H Kim, J Kim Y Choi, **Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**. July 2024, ACM MM. [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681537)][[code](https://github.com/sejong-rcv/PVLR)]
@@ -14,9 +13,5 @@
 - J Kim, W Jo, **G Lim**, J Yun, S Kwak, S Jung, W Cheong, H Choo, J Seo, and Y Choi, **Compression Method for MPEG CDVA Global Feature Descriptors CDVA**, Journal of Broadcast Engineering. May 2022. [[paper](https://koreascience.kr/article/JAKO202218262157225.page)]
 - W Jo, **G Lim**, J Kim, J Yun, Y Choi, **Exploring the Temporal Cues to Enhance Video Retrieval on Standardized CDVA**. Apr 2022, IEEE Access. [[paper](https://ieeexplore.ieee.org/abstract/document/9754362)][[code](https://github.com/sejong-rcv/2022.Paper.TNIP)]
 
-### 💻 Languages
-- C/C++, Python, Matlab
-- OpenCV
-- Pytorch/Sklearn
 
 🔍[Google Scholar](https://scholar.google.co.kr/citations?user=o-W04rAAAAAJ&hl=ko) / 📅[Blog](https://taek-guen.tistory.com/) / 📝[Homepage](https://limgeuntaekk.github.io/)
